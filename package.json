@@ -53,5 +53,8 @@
   },
   "engines": {
     "node": ">=18.15.0"
+  },
+  "dependencies": {
+    "bun": "^1.0.29"
   }
 }
